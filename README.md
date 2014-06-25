@@ -1,2 +1,2 @@
-git-tocopy
-==========
+git-example
+===========
